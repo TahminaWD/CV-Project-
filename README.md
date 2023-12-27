@@ -1,2 +1,2 @@
-# CV-Project-
-It is a first cv project
+# CV-Project
+https://tahminawd.github.io/CV-Project-/
